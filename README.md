@@ -1,6 +1,6 @@
-# 🚀 [PROJECT NAME] – Backend API
+# [Backend Digital Wallet System] – Backend API
 
-Backend service for **[APP NAME]**.  
+Backend service for **[Digital Wallet]**.  
 Provides a RESTful API for authentication, data management, and core application features.
 
 ---
